@@ -1,0 +1,37 @@
+a_Outono = 0.4808
+b_Outono = 0.3681
+a + b_Outono = 0.8489
+Rsq2_Outono = 0.1116
+
+a_Primavera = 0.3983
+b_Primavera = 0.0654
+a + b_Primavera = 0.4637
+Rsq2_Primavera = 0.0102
+
+a_Verao = 0.1764
+b_Verao = 0.5237
+a + b_Verao = 0.7001
+Rsq2_Verao = 0.5769
+
+a_Inverno = 0.3974
+b_Inverno = 0.1578
+a + b_Inverno = 0.5552
+Rsq2_Inverno = 0.2761
+
+a_Diario = 0.2872
+b_Diario = 0.518
+a + b_Diario = 0.8052
+Rsq2_Diario = 0.7936
+
+a_Mensal = 0.2188
+b_Mensal = 0.5913
+a + b_Mensal = 0.8101
+Rsq2_Mensal = 0.3043
+
+a_Anual = 0.3444
+b_Anual = 0.3101
+a + b_Anual = 0.6545
+Rsq2_Anual = 0.3512
+
+Dados totais = 4018
+Dados usados = 3440

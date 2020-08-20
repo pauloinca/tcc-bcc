@@ -1,0 +1,36 @@
+Estacional
+r = 0.383
+d = 0.6208
+c = 0.2378
+RMSE = 4.6705
+MBE = 0.287
+t-statistic = 3.6816
+t-critical = 1.9606
+
+Diária
+r = 0.8291
+d = 0.907
+c = 0.752
+RMSE = 2.6485
+MBE = -0.0839
+t-statistic = 1.8953
+t-critical = 1.9606
+
+Mensal
+r = 0.7613
+d = 0.8342
+c = 0.6351
+RMSE = 3.0599
+MBE = 0.0026
+t-statistic = 0.0508
+t-critical = 1.9606
+
+Anual
+r = 0.3982
+d = 0.5561
+c = 0.2214
+RMSE = 4.3584
+MBE = 0.279
+t-statistic = 3.8359
+t-critical = 1.9606
+
